@@ -59,7 +59,7 @@ public class BankAccount {
 		ba1.setData(1, 200, "Saving");
 		ba2.setData(2, 400, "Saving");
 		ba3.setData(3, 600, "Saving");
-		// print acc details
+		// print acc detailss
 		ba1.getData();
 		ba2.getData();
 		ba3.getData();
